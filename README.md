@@ -62,7 +62,7 @@ Following Node Modules are used:
 - deepai - for using the deepai image computing API
 - fs - for working with file system in node
 
-![a](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/a.PNG)
+![a](https://user-images.githubusercontent.com/94157520/213844130-dd2b47cd-b0b3-4f10-8097-83e2a6a674ad.png)
 ![b](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/b.PNG)
 ![c](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/c.PNG)
 ![d](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/d.PNG)
