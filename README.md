@@ -63,7 +63,7 @@ Following Node Modules are used:
 - fs - for working with file system in node
 
 ![a](https://user-images.githubusercontent.com/94157520/213844130-dd2b47cd-b0b3-4f10-8097-83e2a6a674ad.png)
-![b](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/b.PNG)
-![c](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/c.PNG)
-![d](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/d.PNG)
-![e](https://github.com/anshgoyalevil/e-learning-system-design/blob/master/public/e.PNG)
+![b](https://user-images.githubusercontent.com/94157520/213843995-9e927bff-f774-46e8-a037-bab727980aef.png)
+![c](https://user-images.githubusercontent.com/94157520/213844006-303ccec6-01ea-4112-a160-87fd3a5a02b1.png)
+![d](https://user-images.githubusercontent.com/94157520/213844033-21d75454-b19b-447b-8188-012f2a1d0b0d.png)
+![e](https://user-images.githubusercontent.com/94157520/213844042-c3103907-9691-49b4-9e0d-2c4c7ff648e4.png)
