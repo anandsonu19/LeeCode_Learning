@@ -9,8 +9,8 @@
 ## Installing the project
 
 - fork this repository to your account
-- git clone the project to your local computer. The command would look something like ```git clone https://github.com/{Your GitHub Username}/lecours-e-learning-webapp```
-- Change the terminal to the ```lecours-e-learning-webapp``` project folder using the ```cd lecours-e-learning-webapp``` command on Linux and ```cd "lecours-e-learning-webapp"``` command on Windows.
+- git clone the project to your local computer. The command would look something like ```git clone https://github.com/{Your GitHub Username}/LeeCode_Learning```
+- Change the terminal to the ```LeeCode_Learning``` project folder using the ```cd LeeCode_Learning``` command on Linux and ```cd "LeeCode_Learning"``` command on Windows.
 - run ```npm install```
 - Create a new .env file inside the project's root directory with the following data
 
@@ -28,4 +28,4 @@ DB_URI=mongodb://127.0.0.1:27017/courseDB
 - In the previous terminal, type the command ```node index.js``` to start the server.
 - Go to your browser window, and check the running application. The URL would be ```127.0.0.1:3000```
 
-If you have any query, feel free to ask in on the [discussions forum here](https://github.com/anshgoyalevil/lecours-e-learning-webapp/discussions) or [join the Discord Community here](https://discord.gg/6f28dqWy).
+If you have any query, feel free to ask in on the [discussions forum here](https://github.com/anandsonu19/LeeCode_Learning/discussions) or [join the Discord Community here](https://discord.gg/6f28dqWy).
